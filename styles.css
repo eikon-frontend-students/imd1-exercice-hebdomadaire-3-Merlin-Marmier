@@ -1,0 +1,30 @@
+h1{
+  display: block;
+  padding-top:13px;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+div{
+  border: 1px black solid;
+  border-radius: 10px;
+  max-height: 138px;
+  max-width: 153px;
+}
+
+img{
+  display: block;
+  width: 153px;
+  height: 95px; 
+  border-radius: 0 0 10px 10px;
+}
+
+body :hover{
+  box-shadow: 10px black;
+  transform: scale(1.8);
+}
